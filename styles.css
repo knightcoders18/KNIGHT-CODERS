@@ -1,0 +1,13 @@
+.card-header{
+    background-color: blue;
+}
+.Free{
+    background-color: rgba(247, 8, 8, 0.875);
+}
+.spff{
+    background-color: white;
+    color: blue;
+}
+.spff:hover{
+    background-color: red;
+}
